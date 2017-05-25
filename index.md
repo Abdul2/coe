@@ -1,3 +1,10 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
+
 # Centre of Excellence Service Catalogue
 
 A list of services and training that the Centre of Excellence is offering to portfolios and delivery teams. Please contact [centreofexcellence@digital.homeoffice.gov.uk](centreofexcellence@digital.homeoffice.gov.uk) to find out more and to arrange a booking.  
