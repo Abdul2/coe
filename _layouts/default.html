@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en">
+<!--<![endif]-->
+
+  {% include head.html %}
+
+  <body>
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+    <div id="skiplink-container">
+      <div>
+        <a href="#content" class="skiplink">Skip to main content</a>
+      </div>
+    </div>
+
+    <div id="global-cookie-message">
+      <p>GOV.UK uses cookies to make the site simpler. <a href="https://www.gov.uk/help/cookies">Find out more about cookies</a></p>
+    </div>
+
+    {% include header.html %}
+
+    <main id="content" role="main">
+
+
+        <div class="grid-row">
+          <div class="column-full">
+
+          </div>
+
+          <div class="column-full">
+
+            {{ content }}
+        </div>
+      </div>
+
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

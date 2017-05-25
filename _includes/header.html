@@ -1,0 +1,18 @@
+<header role="banner" id="global-header">
+
+
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+
+
+    <div class="header-wrapper">
+         <div class="header-global">
+           <div class="header-logo">
+             <a class="site-title content" href="{{ "/" | relative_url }}" title="Go to the GOV.UK homepage" id="logo" >
+                {{ site.title | escape }}
+             </a>
+           </div>
+         </div>
+    </div>
+
+</header>
