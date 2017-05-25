@@ -1,6 +1,6 @@
-# Centres of Excellence Service Catalogue
+# Centre of Excellence Service Catalogue
 
-A list of services and training that the Centres of Excellence is offering to portfolios and delivery teams. Please contact [centreofexcellence@digital.homeoffice.gov.uk](centreofexcellence@digital.homeoffice.gov.uk) to find out more and to arrange a booking.  
+A list of services and training that the Centre of Excellence is offering to portfolios and delivery teams. Please contact [centreofexcellence@digital.homeoffice.gov.uk](centreofexcellence@digital.homeoffice.gov.uk) to find out more and to arrange a booking.  
 
 ## Service assessment rehearsal
 
@@ -36,7 +36,7 @@ Step by step exercise to help team build a coherent plan.
 
 **User centred design**
 
-Overview of the Digital Service Standard and how it's assessed. Can be tailored to attendees.Pre-assessment review to advise on all aspects of content and interaction design. Includes a broad look at context and a detailed style/patterns review.
+Overview of the Digital Service Standard and how it's assessed. Can be tailored to attendees. Pre-assessment review to advise on all aspects of content and interaction design. Includes a broad look at context and a detailed style/patterns review.
 
 ## User centred design induction
 
@@ -54,7 +54,7 @@ How to pair write with policy or operational colleagues. Techniques include writ
 
 **Digital Service Standard**
 
-Help with the practicalities - how to contact GDS, when, and what to show them..
+Help with the practicalities - how to contact GDS, when, and what to show them.
 
 ## Home Office design patterns
 
@@ -84,4 +84,4 @@ Workshop and tools to help you measure value, estimate cost and track both throu
 
 **Accessibility**
 
-Awareness raising session covering the full range of access needs, what to consider when building services and interactive session with case study exercise.
+Awareness raising session covering the full range of access needs, what to consider when building services and interactive session with a case study exercise.
