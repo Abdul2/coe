@@ -2,16 +2,6 @@
 layout: default
 ---
 
-# Service Catalogue
-{: .bold-xlarge}
-
-Services and training that the Centre of Excellence is offering to portfolios and delivery teams.
-{: .lede}
-
-Please contact [centreofexcellence@digital.homeoffice.gov.uk](centreofexcellence@digital.homeoffice.gov.uk) to find out more and to arrange a booking.
-
-<hr/>
-
 ## Service assessment rehearsal
 
 Digital Service Standard
