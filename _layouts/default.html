@@ -18,19 +18,15 @@
 
     {% include header.html %}
 
-    <main id="content" role="main">
 
+    <main id="content" role="main">
 
         <div class="grid-row">
           <div class="column-full">
-
-          </div>
-
-          <div class="column-full">
-
+            {% include phase-banner.html %}
             {{ content }}
+          </div>
         </div>
-      </div>
 
     </main>
 
