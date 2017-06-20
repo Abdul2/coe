@@ -1,56 +1,61 @@
 <!DOCTYPE html>
-<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en">
+<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en">
 <!--<![endif]-->
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
-    <div id="skiplink-container">
-      <div>
-        <a href="#content" class="skiplink">Skip to main content</a>
+<body>
+  <script>
+    document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+  </script>
+  <div id="skiplink-container">
+    <div>
+      <a href="#content" class="skiplink">Skip to main content</a>
+    </div>
+  </div>
+
+  <div id="global-cookie-message">
+    <p>GOV.UK uses cookies to make the site simpler. <a href="https://www.gov.uk/help/cookies">Find out more about cookies</a></p>
+  </div>
+
+  {% include header.html %}
+
+  <main id="content" role="main">
+    <div class="grid-row">
+      <div class="column-full">
+        {% include phase-banner.html %}
+
       </div>
     </div>
 
-    <div id="global-cookie-message">
-      <p>GOV.UK uses cookies to make the site simpler. <a href="https://www.gov.uk/help/cookies">Find out more about cookies</a></p>
+    <div class="grid-row">
+      <div class="column-two-thirds">
+        {% include intro.html %}
+      </div>
+    </div>
+    <div class="grid-row">
+      <div class="column-full">
+        <hr/>
+      </div>
     </div>
 
-    {% include header.html %}
+    <div class="grid-row">
+      <div class="column-one-third">
+        <!-- {% include toc.html %} -->
+        {% include meta-filter.html %}
+      </div>
 
-    <main id="content" role="main">
-        <div class="grid-row">
-          <div class="column-full">
-              {% include phase-banner.html %}
+      <div class="column-two-thirds">
+        {{ content }}
+      </div>
+    </div>
 
-          </div>
-        </div>
+  </main>
 
-        <div class="grid-row">
-          <div class="column-two-thirds">
-                {% include intro.html %}
-          </div>
-        </div>
-        <div class="grid-row">
-          <div class="column-full">
-            <hr/>
-          </div>
-        </div>
+  {% include footer.html %}
 
-        <div class="grid-row">
-            <div class="column-one-third">
-              {% include toc.html %}
-            </div>
-
-            <div class="column-two-thirds">
-            {{ content }}
-          </div>
-        </div>
-
-    </main>
-
-    {% include footer.html %}
-
-  </body>
+</body>
 
 </html>
