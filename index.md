@@ -12,17 +12,17 @@ Digital Service Standard
 Point by point rehearsal of GDS assessment with HO assessors.
 
 <details>
-  <summary><span class="summary">More about service assessment</span></summary>
+  <summary><span class="summary">More about assessment rehearsals</span></summary>
   <div class="panel panel-border-narrow">
     <h3>Benefits:</h3>
     <ul class="list list-bullet">
-      <li>Reduce risk of failing or being unprepared for the GDS assessment.</li>
-      <li>Identify any points where team may need to prepare more information.</li>
+      <li>reduce risk of failing or being unprepared for the GDS assessment</li>
+      <li>identify any points where team may need to prepare more information</li>
     </ul>
     <h3>Outputs:</h3>
     <ul class="list list-bullet">
-      <li>A written report with clear findings and recommendations.</li>
-      <li>Feedback on the presentation.</li>
+      <li>a written report with clear findings and recommendations</li>
+      <li>feedback on the presentation</li>
     </ul>
   </div>
 </details>   
@@ -41,6 +41,20 @@ Digital Service Standard
 
 Check service against the Digital Service Standard.
 
+<details>
+  <summary><span class="summary">More about Gap analysis / health checks</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>understand where your service is against the standard, so we can offer the right support for future development</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>feedback at the end of the session, with follow up if needed</li>
+    </ul>
+  </div>
+</details>  
+
 </div>
 
 
@@ -53,6 +67,21 @@ Digital Service Standard
 {: .meta }
 
 Overview of the Digital Service Standard and how it's assessed. Can be tailored to attendees.
+
+<details>
+  <summary><span class="summary">More about service standard inductions</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>raise awareness of what the Digital Service Standard is and what it means for the team</li>
+      <li>build understanding of how to build the right products in the right way, from the start</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>team gains basic understanding of the Digital Service Standard and how it's applied</li>
+    </ul>
+  </div>
+</details>
 
 </div>
 
@@ -67,6 +96,21 @@ Service design
 {: .meta }
 
 Self service tooling (eg. Add Google Analytics to your product), and 2 hour face to face training on how to use it to measure success.
+
+<details>
+  <summary><span class="summary">More about service standard inductions</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>raise awareness of what the Digital Service Standard is and what it means for the team</li>
+      <li>build understanding of how to build the right products in the right way, from the start</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>team gains basic understanding of the Digital Service Standard and how it's applied</li>
+    </ul>
+  </div>
+</details>
 
 </div>
 
