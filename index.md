@@ -53,6 +53,7 @@ Check service against the Digital Service Standard.
     <ul class="list list-bullet">
       <li>feedback at the end of the session, with follow up if needed</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analysis/healthcheck">Book a analysis/health check</a></div>
   </div>
 </details>  
 
@@ -81,6 +82,7 @@ Overview of the Digital Service Standard and how it's assessed. Can be tailored 
     <ul class="list list-bullet">
       <li>team gains basic understanding of the Digital Service Standard and how it's applied</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20standards%induction">Book a standards induction</a></div>
   </div>
 </details>
 
@@ -109,6 +111,7 @@ Self service tooling (eg. Add Google Analytics to your product), and 2 hour face
     <ul class="list list-bullet">
       <li>identify the right analytics tools to use, and an initial set of things to help measure success</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analytics%20consultancy">Book a analytics consultancy</a></div>
   </div>
 </details>
 
@@ -139,6 +142,7 @@ Step by step exercise to help team build a coherent plan.
       <li>plans more likely to meet deadlines and goals</li>
       <li>ongoing support from the centre of excellence for duration of the phase</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20planning%20workshop">Book a planning workshop</a></div>
   </div>
 </details>
 
@@ -167,6 +171,7 @@ Overview of the Digital Service Standard and how it's assessed. Can be tailored 
     <ul class="list list-bullet">
       <li>written review with clear recommendations</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20design%20review">Book a design review</a></div>
   </div>
 </details>
 
@@ -195,6 +200,7 @@ Overview of user centred design professions and how they work together in govern
     <ul class="list list-bullet">
       <li>Consistent approach to user centred design</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20design%20review">Book a design review</a></div>
   </div>
 </details>
 
@@ -223,6 +229,7 @@ How to pair write with policy or operational colleagues. Techniques include writ
     <ul class="list list-bullet">
       <li>understand how to write content that is both clear and legally accurate</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20pair%20writing%20workshop">Book a pair writing workshop</a></div>
   </div>
 </details>
 
@@ -251,7 +258,9 @@ Help with the practicalities - how to contact GDS, when, and what to show them.
     <ul class="list list-bullet">
       <li>output of next steps depends on the service</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20engaging%20with%20GDS">Book engaging with GDS review</a></div>
   </div>
+
 </details>
 
 </div>
@@ -279,6 +288,7 @@ In-house patterns to complement the GDS design patterns, particularly around int
     <ul class="list list-bullet">
       <li>quicker and cheaper to build services. Consistency across HO services</li>
     </ul>
+    <div class="button-secondary"><a href="https://home-office-digital-patterns.herokuapp.com/">Our design patterns</a></div>
   </div>
 </details>
 
@@ -307,6 +317,7 @@ How to use the GDS prototyping kit to quickly create prototype government servic
     <ul class="list list-bullet">
       <li>how to use the GOV.UK kit</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20prototype%20kit%20training">Book prototype kit training</a></div>
   </div>
 </details>
 
@@ -331,7 +342,9 @@ How to identify the problem you want your product or service to solve.
     <ul class="list list-bullet">
       <li>better achieve policy intent and desired outcomes when we're going to spend money on services</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20actual%20problems%20workshop">Book an actual problems workshop</a></div>
   </div>
+
 </details>
 
 </div>
@@ -355,7 +368,9 @@ Workshop and tools to help you measure value, estimate cost and track both throu
     <ul class="list list-bullet">
       <li>ensures successful outcomes and effective reporting governance</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20measuring%20values%20workshop">Book a measuring values workshop</a></div>
   </div>
+
 </details>
 
 </div>
@@ -380,6 +395,7 @@ Awareness raising session covering the full range of access needs, what to consi
       <li>raise awareness of the legal requirements to build accessible services</li>
       <li>equip staff with the skills they need to meet obligations in the Equality Act</li>
     </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Place%20on%20access%20needs%20induction">Get a place on access needs induction</a></div>
   </div>
 </details>
 
