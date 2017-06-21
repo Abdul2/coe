@@ -24,7 +24,7 @@ Point by point rehearsal of GDS assessment with HO assessors.
       <li>a written report with clear findings and recommendations</li>
       <li>feedback on the presentation</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book an assessment rehearsal">Book an assessment rehearsal</a></div>  
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20an%20assessment%20rehearsal">Book an assessment rehearsal</a></div>  
   </div>
 </details>   
 
