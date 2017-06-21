@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<div class="content" markdown="1">
+
 ## Service assessment rehearsal
 
 Digital Service Standard
@@ -9,7 +11,12 @@ Digital Service Standard
 
 Point by point rehearsal of GDS assessment with HO assessors.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Gap analysis / health check
 
@@ -18,7 +25,11 @@ Digital Service Standard
 
 Check service against the Digital Service Standard.
 
-<hr/>
+</div>
+
+
+
+<div class="content" markdown="1">
 
 ## Digital Service Standard induction
 
@@ -27,7 +38,12 @@ Digital Service Standard
 
 Overview of the Digital Service Standard and how it's assessed. Can be tailored to attendees.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Web analytics consultancy and self-service tools
 
@@ -36,7 +52,12 @@ Service design
 
 Self service tooling (eg. Add Google Analytics to your product), and 2 hour face to face training on how to use it to measure success.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Facilitated planning workshops
 
@@ -45,7 +66,12 @@ Digital Service Standard
 
 Step by step exercise to help team build a coherent plan.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Design review
 
@@ -54,7 +80,12 @@ User centred design
 
 Overview of the Digital Service Standard and how it's assessed. Can be tailored to attendees. Pre-assessment review to advise on all aspects of content and interaction design. Includes a broad look at context and a detailed style/patterns review.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## User centred design induction
 
@@ -63,7 +94,12 @@ User centred design
 
 Overview of user centred design professions and how they work together in government.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Pair writing
 
@@ -72,7 +108,12 @@ User centred design
 
 How to pair write with policy or operational colleagues. Techniques include writing/agreeing user needs, best practice.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Engaging with GDS
 
@@ -81,7 +122,12 @@ Digital Service Standard
 
 Help with the practicalities - how to contact GDS, when, and what to show them.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Home Office design patterns
 
@@ -90,7 +136,12 @@ User centred design
 
 In-house patterns to complement the GDS design patterns, particularly around internal services.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Prototype kit training
 
@@ -99,7 +150,12 @@ User centred design
 
 How to use the GDS prototyping kit to quickly create prototype government services for testing ideas with users. Advanced features to make the prototype as realistic as possible.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Actual problems to be solved
 
@@ -108,7 +164,12 @@ Service design
 
 How to identify the problem you want your product or service to solve.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Measuring value and estimating cost
 
@@ -117,7 +178,12 @@ Product management
 
 Workshop and tools to help you measure value, estimate cost and track both through delivery.
 
-<hr/>
+</div>
+
+
+
+
+<div class="content" markdown="1">
 
 ## Access needs induction
 
@@ -125,3 +191,5 @@ Accessibility
 {: .meta }
 
 Awareness raising session covering the full range of access needs, what to consider when building services and interactive session with a case study exercise.
+
+</div>
