@@ -11,6 +11,22 @@ Digital Service Standard
 
 Point by point rehearsal of GDS assessment with HO assessors.
 
+<details>
+  <summary><span class="summary">More about service assessment</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>Reduce risk of failing or being unprepared for the GDS assessment.</li>
+      <li>Identify any points where team may need to prepare more information.</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>A written report with clear findings and recommendations.</li>
+      <li>Feedback on the presentation.</li>
+    </ul>
+  </div>
+</details>   
+
 </div>
 
 
