@@ -24,6 +24,7 @@ Point by point rehearsal of GDS assessment with HO assessors.
       <li>a written report with clear findings and recommendations</li>
       <li>feedback on the presentation</li>
     </ul>
+    <div class="button"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book an assessment rehearsal">Book an assessment rehearsal</a></div>  
   </div>
 </details>   
 
@@ -372,7 +373,7 @@ Accessibility
 Awareness raising session covering the full range of access needs, what to consider when building services and interactive session with a case study exercise.
 
 <details>
-  <summary><span class="summary">More about measuring value</span></summary>
+  <summary><span class="summary">More about access needs induction</span></summary>
   <div class="panel panel-border-narrow">
     <h3>Benefits:</h3>
     <ul class="list list-bullet">
