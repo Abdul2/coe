@@ -736,6 +736,34 @@ hr {
       background-image: url("/public/images/icon-pointer-2x.png");
       background-size: 30px 19px; } }
 
+.button-secondary {
+  background-color: #BFC1C3;
+  position: relative;
+  display: -moz-inline-stack;
+  display: inline-block;
+  padding: .526315em .789473em .263157em;
+  border: none;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  outline: 1px solid transparent;
+  outline-offset: -1px;
+  -webkit-appearance: none;
+  -webkit-box-shadow: 0 2px 0 #6F777B;
+  -moz-box-shadow: 0 2px 0 #6F777B;
+  box-shadow: 0 2px 0 #6F777B;
+  font-size: 1em;
+  line-height: 1.25;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  cursor: pointer;
+  color: #000;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  vertical-align: top;
+      }
+
 .icon {
   display: inline-block;
   background-position: 0 0;
