@@ -20,8 +20,14 @@ $('.jsMetaFilter').click(function(e) {
   e.preventDefault();
   var filter = $(this).text();
 
-  $('.content').hide();
-  $('.meta:contains("' + filter + '")').parents('.content').show();
+  if (filter == 'All') {
+    $('.content').show();
+  } else {
+    $('.content').hide();
+    $('.meta:contains("' + filter + '")').parents('.content').show();
+  }
 
-  $('html,body').scrollTop(0);
+  $('.tab--nav .active').removeClass('active')
+  $(this).addClass('active');
+
 });
