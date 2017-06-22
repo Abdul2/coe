@@ -400,3 +400,29 @@ Awareness raising session covering the full range of access needs, what to consi
 </details>
 
 </div>
+
+<div class="content" markdown="1">
+
+## Introduction to content design
+
+User centred design
+{: .meta }
+
+This 1 hour introduction to content design will give you an overview of what content design is and what content designers do.
+
+<details>
+  <summary><span class="summary">More about content design</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>understand how to get content right from the start, how to get the best from a content designer and the business benefits of getting it right</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>1 hour talk with hands on exercise. Covers user needs, minimum viable content, how people read, style and structure and writing content for transactional services</li>
+    </ul>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Content%20design%20introduction">Content design introduction</a></div>
+  </div>
+</details>
+
+</div>
