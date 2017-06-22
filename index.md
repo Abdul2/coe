@@ -426,3 +426,85 @@ This 1 hour introduction to content design will give you an overview of what con
 </details>
 
 </div>
+
+<div class="content" markdown="1">
+## User research studio
+
+User centred design
+{: .meta }
+
+Cost saving research facility for use with members of the public, and staff - in Croydon and Sheffield.
+
+<details>
+  <summary><span class="summary">More about the user research studio</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>free lab space and the opportunity to get the whole team involved in user research activity</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>observe how your users use your service, where your service is doing well and where it needs improving</li>
+      <li>audio and video recordings of your research sessions will be shared on the day</li>
+    </ul>
+    <div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to check availability and book</a></div>
+  </div>
+</details>
+
+</div>
+
+<div class="content" markdown="1">
+## Recruiting user research participants
+
+User centred design
+{: .meta }
+
+Help with finding people to take part in user research and usability testing on your project. How to use in-house recruitment,  incentives, procure external suppliers, and advice on how to include a diverse range of users.
+
+<details>
+  <summary><span class="summary">More about recruiting participants</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>recruiting people to take part in user research is hard - but you need to research with real people to pass the service assessment</li>
+      <li>make use of our in-house team's knowledge and expertise to discuss recruitment routes and help guide you through the process</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>participants for user research</li>
+      <li>networks and contacts you can approach</li>
+      <li>datasets and research panels you can mine for participants</li>
+    </ul>
+    <div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to book</a></div>
+  </div>
+</details>
+
+</div>
+
+<div class="content" markdown="1">
+## User research knowledge store
+
+User centred design
+{: .meta }
+
+Access to a collection of insight gleaned from user research to add to your knowledge base. Real insights from real projects. Pointers on how to find information on Sharepoint and the best people to speak with to find out more.
+
+<details>
+  <summary><span class="summary">More about our research knowledge store</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>save time and money</li>
+      <li>avoid repeating the mistakes made by others and duplication</li>
+      <li>build from the learnings of others researching the same topics and/or user base</li>
+      <li>find out what is happening across the department and what learnings can add value to your project</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>a knowledge base to inform future research on your project</li>
+    </ul>
+    <div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to book</a></div>
+  </div>
+</details>
+
+</div>
