@@ -508,3 +508,52 @@ Access to a collection of insight gleaned from user research to add to your know
 </details>
 
 </div>
+
+<div class="content" markdown="1">
+## Developer induction
+
+Architecture and engineering
+{: .meta }
+
+Overview of development best practices within the Home Office.
+
+</div>
+
+<div class="content" markdown="1">
+## Advanced use of Application Container Platform (ACP)
+
+Architecture and engineering
+{: .meta }
+
+Hand-on course on deploying applications in Kubernetes using Drone and ephemeral namespaces.
+
+</div>
+
+<div class="content" markdown="1">
+## Application Container Platform (ACP) design clinic
+
+Architecture and engineering
+{: .meta }
+
+Design and overview of the technical requirements needed to deploy to the Kubernetes platform.
+
+</div>
+
+<div class="content" markdown="1">
+## Pair programming & mentoring
+
+Architecture and engineering
+{: .meta }
+
+Session aimed at developing higher quality code, faster while also reducing risk and spreading nowledge in an organisation.
+
+</div>
+
+<div class="content" markdown="1">
+## Developing forms using the Home Office Forms framework
+
+Architecture and engineering
+{: .meta }
+
+Overview of the internal framework used to create forms with minimal coding.
+</div>
