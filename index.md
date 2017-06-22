@@ -578,7 +578,7 @@ Accessibility
     <ul class="list list-bullet">
       <li>set of workshop slides, notes, links to further materials and research assets relevant for your user base</li>
     </ul>
-    <div class="button-secondary"><a href="Amy Everett amy.everett@digital.homeoffice.gov.uk">Contact Amy to find out more</a></div>
+    <div class="button-secondary"><a href="mailto:amy.everett@digital.homeoffice.gov.uk">Contact us to find out more</a></div>
   </div>
 </details>
 
@@ -603,7 +603,7 @@ Accessibility
     <ul class="list list-bullet">
       <li>set of workshop slides, notes, links to further materials and sample communications, commercial and training packs</li>
     </ul>
-    <div class="button-secondary"><a href="Amy Everett amy.everett@digital.homeoffice.gov.uk">Contact Amy to find out more</a></div>
+    <div class="button-secondary"><a href="mailto:amy.everett@digital.homeoffice.gov.uk">Contact us to find out more</a></div>
   </div>
 </details>
 
@@ -629,7 +629,7 @@ A monthly email newsletter giving information on relevant assisted digital and c
     <ul class="list list-bullet">
       <li>email newsletter with links to relevant materials and (shareable) research assets from around government</li>
     </ul>
-    <div class="button-secondary"><a href="Amy Everett amy.everett@digital.homeoffice.gov.uk">Sign up</a></div>
+    <div class="button-secondary"><a href="mailto:amy.everett@digital.homeoffice.gov.uk">Sign up</a></div>
   </div>
 </details>
 
@@ -654,7 +654,7 @@ Co-create and trial intervention(s) to increase channel shift for a given servic
     <ul class="list list-bullet">
       <li>data and evidence in the form of a high level summary and a detailed report to inform decisions around channel shift and assited digital support provision</li>
     </ul>
-    <div class="button-secondary"><a href="Amy Everett amy.everett@digital.homeoffice.gov.uk">Book</a></div>
+    <div class="button-secondary"><a href="mailto:amy.everett@digital.homeoffice.gov.uk">Book</a></div>
   </div>
 </details>
 
