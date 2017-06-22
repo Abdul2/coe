@@ -557,3 +557,105 @@ Architecture and engineering
 
 Overview of the internal framework used to create forms with minimal coding.
 </div>
+
+<div class="content" markdown="1">
+## Getting Started with Assisted Digital for researchers
+
+Accessibility
+{: .meta }
+
+2 hour session to cover the research required to meet service standard point 14
+
+<details>
+  <summary><span class="summary">More about assisted digital</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>gives user researchers the tools and knowledge to conduct the right level of research to meet the standard</li>
+      <li>meet our ethical obligation to research with a wide group of users</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>set of workshop slides, notes, links to further materials and research assets relevant for your user base</li>
+    </ul>
+    <div class="button-secondary"><a href="Amy Everett amy.everett@digital.homeoffice.gov.uk">Contact Amy to find out more</a></div>
+  </div>
+</details>
+
+</div>
+
+<div class="content" markdown="1">
+## Getting Started with Assisted Digital for product teams
+
+Accessibility
+{: .meta }
+
+2 hour session to cover the research required to meet service standard point 14
+
+<details>
+  <summary><span class="summary">More about assisted digital</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>achieving assisted digital and channel shift requires more than just research - product teams need to be aware of the relevant communications, commercial and business change aspects</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>set of workshop slides, notes, links to further materials and sample communications, commercial and training packs</li>
+    </ul>
+    <div class="button-secondary"><a href="Amy Everett amy.everett@digital.homeoffice.gov.uk">Contact Amy to find out more</a></div>
+  </div>
+</details>
+
+</div>
+
+<div class="content" markdown="1">
+## Assisted Digital and Channel Shift Round-Up
+
+Accessibility
+{: .meta }
+
+A monthly email newsletter giving information on relevant assisted digital and channel shift across wider government
+
+<details>
+  <summary><span class="summary">More about our roundup</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>benefit from work going on elsewhere in government</li>
+      <li>helps avoid duplication of effort and stimulates ideas for how support models and channel shift strategies might work in your own context</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>email newsletter with links to relevant materials and (shareable) research assets from around government</li>
+    </ul>
+    <div class="button-secondary"><a href="Amy Everett amy.everett@digital.homeoffice.gov.uk">Sign up</a></div>
+  </div>
+</details>
+
+</div>
+
+<div class="content" markdown="1">
+## Channel Shift commissions
+
+Accessibility
+{: .meta }
+
+Co-create and trial intervention(s) to increase channel shift for a given service.
+
+<details>
+  <summary><span class="summary">More about commissions</span></summary>
+  <div class="panel panel-border-narrow">
+    <h3>Benefits:</h3>
+    <ul class="list list-bullet">
+      <li>test the effectiveness of interventions in specific contexts to provide evidence for a course of action</li>
+    </ul>
+    <h3>Outputs:</h3>
+    <ul class="list list-bullet">
+      <li>data and evidence in the form of a high level summary and a detailed report to inform decisions around channel shift and assited digital support provision</li>
+    </ul>
+    <div class="button-secondary"><a href="Amy Everett amy.everett@digital.homeoffice.gov.uk">Book</a></div>
+  </div>
+</details>
+
+</div>
