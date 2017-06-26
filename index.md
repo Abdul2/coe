@@ -382,7 +382,7 @@ Workshop and tools to help you measure value, estimate cost and track both throu
 
 ## Access needs induction
 
-Accessibility
+Accessibility and inclusion
 {: .meta }
 
 Awareness raising session covering the full range of access needs, what to consider when building services and interactive session with a case study exercise.
@@ -561,7 +561,7 @@ Overview of the internal framework used to create forms with minimal coding.
 <div class="content" markdown="1">
 ## Getting Started with Assisted Digital for researchers
 
-Accessibility
+Accessibility and inclusion
 {: .meta }
 
 2 hour session to cover the research required to meet service standard point 14
@@ -587,7 +587,7 @@ Accessibility
 <div class="content" markdown="1">
 ## Getting Started with Assisted Digital for product teams
 
-Accessibility
+Accessibility and inclusion
 {: .meta }
 
 2 hour session to cover the research required to meet service standard point 14
@@ -612,7 +612,7 @@ Accessibility
 <div class="content" markdown="1">
 ## Assisted Digital and Channel Shift Round-Up
 
-Accessibility
+Accessibility and inclusion
 {: .meta }
 
 A monthly email newsletter giving information on relevant assisted digital and channel shift across wider government
@@ -638,7 +638,7 @@ A monthly email newsletter giving information on relevant assisted digital and c
 <div class="content" markdown="1">
 ## Channel Shift commissions
 
-Accessibility
+Accessibility and inclusion
 {: .meta }
 
 Co-create and trial intervention(s) to increase channel shift for a given service.
