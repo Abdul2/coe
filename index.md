@@ -11,8 +11,8 @@ Digital Service Standard
 
 A rehearsal assessment to find weak areas in your service before its GDS assessment. Home Office assessors will give feedback on your presentation and write a report of findings and recommendations.
 
-Format: workshop
-Length: 0.5 day
+<p>Format: workshop<br>
+Length: 0.5 day</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20an%20assessment%20rehearsal">Book an assessment rehearsal</a></div>  
 
@@ -46,8 +46,8 @@ Digital Service Standard
 
 Discover where your service is against the Digital Service Standard. We’ll give you feedback at the end of the session, with advice on developing your service. Follow-up help and advice are also available.
 
-Format: workshop
-Length: 2 to 3 hours
+<p>Format: workshop<br>
+Length: 2 to 3 hours</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analysis/healthcheck">Book a service health check</a></div>
 
@@ -78,8 +78,8 @@ Digital Service Standard
 
 An overview of the GDS Digital Service Standard. We’ll explain the 18 criteria and show you how to apply them to your service.
 
-Format: lunch and learn
-Length: 1 hour
+<p>Format: lunch and learn<br>
+Length: 1 hour</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20standards%induction">Book an intro to standards</a></div>
 
@@ -112,8 +112,8 @@ Service design
 
 Analytics tools such as Google Analytics will be added to your service and you’ll receive training on understanding and using the data generated. For example, you’ll learn how to identify problems in your service or measure how it’s performing. You’ll also receive a written summary and report.
 
-Format: installation of analytics tools plus training session
-Length: 1 day for installation; 2 hours for training session
+<p>Format: installation of analytics tools plus training session<br>
+Length: 1 day for installation; 2 hours for training session</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analytics%20consultancy">Book an analytics consultancy</a></div>
 
@@ -145,8 +145,8 @@ Digital Service Standard
 
 Guided team planning workshop. Session includes goal setting, agreeing ways of working, identifying risks and measuring success. You’ll receive a written summary and report. Ongoing support is also available.
 
-Format: workshop
-Length: 1 day
+<p>Format: workshop<br>
+Length: 1 day</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20planning%20workshop">Book a planning workshop</a></div>
 
@@ -180,8 +180,8 @@ User centred design
 
 Discover if your service meets points 12 and 13 of the Digital Service Standard. Review includes a detailed appraisal of content and interaction design, including styles and patterns.
 
-Format: written report
-Length: report sent within 1 week
+<p>Format: written report<br>
+Length: report sent within 1 week</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20design%20review">Book a design review</a></div>
 
@@ -213,8 +213,8 @@ User centred design
 
 An overview of user centred design for researchers and designers. Explores overlaps between the professions to ensure a consistent approach to work.
 
-Format: workshop
-Length: 4 hours
+<p>Format: workshop<br>
+Length: 4 hours</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20design%20review">Book a design review</a></div>
 
@@ -246,8 +246,8 @@ User centred design
 
 Content designers and subject matter experts pair up to write clear and accurate content. Session includes identifying user needs and best practice.
 
-Format: workshop
-Length: 4 hours
+<p>Format: workshop<br>
+Length: 4 hours</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20pair%20writing%20workshop">Book a pair writing workshop</a></div>
 
@@ -279,7 +279,7 @@ Digital Service Standard
 
 Advice on when to speak to GDS about your service and what to show them. For example, when and how to seek funding approval, support or an assessment.   
 
-Format: personal advice
+<p>Format: personal advice</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20engaging%20with%20GDS">Book engaging GDS</a></div>
 
@@ -310,7 +310,7 @@ Format: personal advice
 User centred design
 {: .meta }
 
-An online library of design patterns to create consistency between Home Office services and GDS designs.
+<p>An online library of design patterns to create consistency between Home Office services and GDS designs.</p>
 <br>
 <div class="button-secondary"><a href="https://home-office-digital-patterns.herokuapp.com/">Our design patterns</a></div>
 
@@ -342,8 +342,8 @@ User centred design
 
 Learn how to use the GDS prototyping kit to create services that are ready to test with users.  
 
-Format: workshop
-Length: 2 hours
+<p>Format: workshop<br>
+Length: 2 hours</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20prototype%20kit%20training">Book kit training</a></div>
 
@@ -407,8 +407,8 @@ Product management
 
 Improve reporting governance by learning how to measure value, estimate cost and track both through delivery.
 
-Format: workshop
-Length: 2 hours
+<p>Format: workshop<br>
+Length: 2 hours</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20measuring%20values%20workshop">Book a measuring values workshop</a></div>
 
@@ -437,8 +437,8 @@ Accessibility and inclusion
 
 Learn how to build services that meet a range of access needs and satisfy the Equality Act 2010. Workshops include an interactive session with a case study exercise.
 
-Format: workshop
-Length: 1 day
+<p>Format: workshop<br>
+Length: 1 day</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Place%20on%20access%20needs%20induction">Book a place on access needs induction</a></div>
 
@@ -464,8 +464,8 @@ User centred design
 
 Discover what content design is and what content designers do. Session includes user needs, minimum viable content, how people read, style and structure, and writing content for transactional services.
 
-Format: lunch and learn
-Length: 1 hour
+<p>Format: lunch and learn<br>
+Length: 1 hour</p>
 <br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Content%20design%20introduction">Content design introduction</a></div>
 
@@ -491,7 +491,7 @@ Length: 1 hour
 User centred design
 {: .meta }
 
-User research lab with audio and video recording equipment at Metro Point in Croydon. Teams can watch participants from a different room. Recordings from your session will be shared on the day.
+<p>User research lab with audio and video recording equipment at Metro Point in Croydon. Teams can watch participants from a different room. Recordings from your session will be shared on the day.</p>
 <br>
 <div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to check availability and book</a></div>
 
@@ -520,8 +520,8 @@ User centred design
 
 We can help you find people for user research and usability testing. For example, we can provide lists of potential research participants or help you source new participants. We can also use internal access needs panels to provide contacts for recruitment.
 
-Format: personal advice
-Length: recruiting participants using external agencies can take up to 8 weeks, or 4 weeks if using in-house teams; contacts for recruitment can be supplied within 2 weeks.
+<p>Format: personal advice<br>
+Length: recruiting participants using external agencies can take up to 8 weeks, or 4 weeks if using in-house teams; contacts for recruitment can be supplied within 2 weeks.</p>
 <br>
 <div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to book</a></div>
 
@@ -553,8 +553,8 @@ User centred design
 
 Access to a bank of information discovered through past user research. We can tell you how to find information on SharePoint and who to speak to about specific findings.
 
-Format: documents, photos, video clips and html content; briefing from user researchers on specific findings
-Length: assets and links collated and shared within 2 weeks
+<p>Format: documents, photos, video clips and html content; briefing from user researchers on specific findings<br>
+Length: assets and links collated and shared within 2 weeks</p>
 <br>
 <div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to book</a></div>
 
