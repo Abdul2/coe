@@ -48,7 +48,29 @@
       </div>
 
       <div class="column-two-thirds">
-        {{ content }}
+
+        <ul class="post-list">
+          {% for post in site.posts %}
+
+          <div class="content" markdown="1">
+            <h2>{{ post.title | escape }}</h2>
+            <p class="meta">{{ post.category }}</p>
+            {{ post.excerpt }}
+
+            <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analysis/healthcheck">Book a service health check</a></div>
+
+            <details>
+              <summary><span class="summary">More about {{ post.title | escape }}</span></summary>
+              <div class="panel panel-border-narrow">
+                {{ post.content | remove: post.excerpt }}
+              </div>
+            </details>
+
+          </div>
+
+          {% endfor %}
+        </ul>
+
       </div>
     </div>
 
