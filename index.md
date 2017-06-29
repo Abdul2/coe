@@ -4,12 +4,17 @@ layout: default
 
 <div class="content" markdown="1">
 
-## Service assessment rehearsal
+## Practice service assessment  
 
 Digital Service Standard
 {: .meta }
 
-Point by point rehearsal of GDS assessment with HO assessors.
+A rehearsal assessment to find weak areas in your service before its GDS assessment. Home Office assessors will give feedback on your presentation and write a report of findings and recommendations.
+
+Format: workshop
+Length: 0.5 day
+
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20an%20assessment%20rehearsal">Book an assessment rehearsal</a></div>  
 
 <details>
   <summary><span class="summary">More about assessment rehearsals</span></summary>
@@ -24,7 +29,6 @@ Point by point rehearsal of GDS assessment with HO assessors.
       <li>a written report with clear findings and recommendations</li>
       <li>feedback on the presentation</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20an%20assessment%20rehearsal">Book an assessment rehearsal</a></div>  
   </div>
 </details>   
 
@@ -338,6 +342,8 @@ How to discover the problems you want your service to solve. Advice includes ach
 <p>Format: workshop<br>
 Length: 2 hours</p>
 
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20actual%20problems%20workshop">Book problem solving workshop</a></div>
+
 <details>
   <summary><span class="summary">More about the actual problems workshop</span></summary>
   <div class="panel panel-border-narrow">
@@ -347,7 +353,6 @@ Length: 2 hours</p>
     <ul class="list list-bullet">
       <li>better achieve policy intent and desired outcomes when we're going to spend money on services</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20actual%20problems%20workshop">Book problem solving workshop</a></div>
   </div>
 
 </details>
