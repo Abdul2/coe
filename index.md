@@ -13,7 +13,7 @@ A rehearsal assessment to find weak areas in your service before its GDS assessm
 
 Format: workshop
 Length: 0.5 day
-
+<br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20an%20assessment%20rehearsal">Book an assessment rehearsal</a></div>  
 
 <details>
@@ -48,7 +48,7 @@ Discover where your service is against the Digital Service Standard. We’ll giv
 
 Format: workshop
 Length: 2 to 3 hours
-
+<br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analysis/healthcheck">Book a service health check</a></div>
 
 <details>
@@ -80,7 +80,7 @@ An overview of the GDS Digital Service Standard. We’ll explain the 18 criteria
 
 Format: lunch and learn
 Length: 1 hour
-
+<br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20standards%induction">Book an intro to standards</a></div>
 
 <details>
@@ -114,7 +114,7 @@ Analytics tools such as Google Analytics will be added to your service and you�
 
 Format: installation of analytics tools plus training session
 Length: 1 day for installation; 2 hours for training session
-
+<br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analytics%20consultancy">Book an analytics consultancy</a></div>
 
 <details>
@@ -138,12 +138,17 @@ Length: 1 day for installation; 2 hours for training session
 
 <div class="content" markdown="1">
 
-## Facilitated planning workshops
+## Team planning workshop
 
 Digital Service Standard
 {: .meta }
 
-Step by step exercise to help team build a coherent plan.
+Guided team planning workshop. Session includes goal setting, agreeing ways of working, identifying risks and measuring success. You’ll receive a written summary and report. Ongoing support is also available.
+
+Format: workshop
+Length: 1 day
+<br>
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20planning%20workshop">Book a planning workshop</a></div>
 
 <details>
   <summary><span class="summary">More about planning workshops</span></summary>
@@ -158,7 +163,6 @@ Step by step exercise to help team build a coherent plan.
       <li>plans more likely to meet deadlines and goals</li>
       <li>ongoing support from the centre of excellence for duration of the phase</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20planning%20workshop">Book a planning workshop</a></div>
   </div>
 </details>
 
@@ -174,7 +178,12 @@ Step by step exercise to help team build a coherent plan.
 User centred design
 {: .meta }
 
-Overview of the Digital Service Standard and how it's assessed. Can be tailored to attendees. Pre-assessment review to advise on all aspects of content and interaction design. Includes a broad look at context and a detailed style/patterns review.
+Discover if your service meets points 12 and 13 of the Digital Service Standard. Review includes a detailed appraisal of content and interaction design, including styles and patterns.
+
+Format: written report
+Length: report sent within 1 week
+<br>
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20design%20review">Book a design review</a></div>
 
 <details>
   <summary><span class="summary">More about design reviews</span></summary>
@@ -187,7 +196,6 @@ Overview of the Digital Service Standard and how it's assessed. Can be tailored 
     <ul class="list list-bullet">
       <li>written review with clear recommendations</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20design%20review">Book a design review</a></div>
   </div>
 </details>
 
@@ -198,12 +206,17 @@ Overview of the Digital Service Standard and how it's assessed. Can be tailored 
 
 <div class="content" markdown="1">
 
-## User centred design induction
+## Introduction to user centred design
 
 User centred design
 {: .meta }
 
-Overview of user centred design professions and how they work together in government.
+An overview of user centred design for researchers and designers. Explores overlaps between the professions to ensure a consistent approach to work.
+
+Format: workshop
+Length: 4 hours
+<br>
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20design%20review">Book a design review</a></div>
 
 <details>
   <summary><span class="summary">More about design induction</span></summary>
@@ -216,7 +229,6 @@ Overview of user centred design professions and how they work together in govern
     <ul class="list list-bullet">
       <li>Consistent approach to user centred design</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20design%20review">Book a design review</a></div>
   </div>
 </details>
 
@@ -227,12 +239,17 @@ Overview of user centred design professions and how they work together in govern
 
 <div class="content" markdown="1">
 
-## Pair writing
+## Pair writing workshop
 
 User centred design
 {: .meta }
 
-How to pair write with policy or operational colleagues. Techniques include writing/agreeing user needs, best practice.
+Content designers and subject matter experts pair up to write clear and accurate content. Session includes identifying user needs and best practice.
+
+Format: workshop
+Length: 4 hours
+<br>
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20pair%20writing%20workshop">Book a pair writing workshop</a></div>
 
 <details>
   <summary><span class="summary">More about pair writing</span></summary>
@@ -245,7 +262,6 @@ How to pair write with policy or operational colleagues. Techniques include writ
     <ul class="list list-bullet">
       <li>understand how to write content that is both clear and legally accurate</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20pair%20writing%20workshop">Book a pair writing workshop</a></div>
   </div>
 </details>
 
@@ -256,12 +272,16 @@ How to pair write with policy or operational colleagues. Techniques include writ
 
 <div class="content" markdown="1">
 
-## Engaging with GDS
+## Engaging GDS
 
 Digital Service Standard
 {: .meta }
 
-Help with the practicalities - how to contact GDS, when, and what to show them.
+Advice on when to speak to GDS about your service and what to show them. For example, when and how to seek funding approval, support or an assessment.   
+
+Format: personal advice
+<br>
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20engaging%20with%20GDS">Book engaging GDS</a></div>
 
 <details>
   <summary><span class="summary">More about engaging GDS</span></summary>
@@ -274,7 +294,6 @@ Help with the practicalities - how to contact GDS, when, and what to show them.
     <ul class="list list-bullet">
       <li>output of next steps depends on the service</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20engaging%20with%20GDS">Book engaging with GDS review</a></div>
   </div>
 
 </details>
@@ -291,7 +310,9 @@ Help with the practicalities - how to contact GDS, when, and what to show them.
 User centred design
 {: .meta }
 
-In-house patterns to complement the GDS design patterns, particularly around internal services.
+An online library of design patterns to create consistency between Home Office services and GDS designs.
+<br>
+<div class="button-secondary"><a href="https://home-office-digital-patterns.herokuapp.com/">Our design patterns</a></div>
 
 <details>
   <summary><span class="summary">More about design patterns</span></summary>
@@ -304,7 +325,6 @@ In-house patterns to complement the GDS design patterns, particularly around int
     <ul class="list list-bullet">
       <li>quicker and cheaper to build services. Consistency across HO services</li>
     </ul>
-    <div class="button-secondary"><a href="https://home-office-digital-patterns.herokuapp.com/">Our design patterns</a></div>
   </div>
 </details>
 
@@ -320,7 +340,12 @@ In-house patterns to complement the GDS design patterns, particularly around int
 User centred design
 {: .meta }
 
-How to use the GDS prototyping kit to quickly create prototype government services for testing ideas with users. Advanced features to make the prototype as realistic as possible.
+Learn how to use the GDS prototyping kit to create services that are ready to test with users.  
+
+Format: workshop
+Length: 2 hours
+<br>
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20prototype%20kit%20training">Book kit training</a></div>
 
 <details>
   <summary><span class="summary">More about prototype training</span></summary>
@@ -333,7 +358,6 @@ How to use the GDS prototyping kit to quickly create prototype government servic
     <ul class="list list-bullet">
       <li>how to use the GOV.UK kit</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20prototype%20kit%20training">Book prototype kit training</a></div>
   </div>
 </details>
 
@@ -353,7 +377,7 @@ How to discover the problems you want your service to solve. Advice includes ach
 
 <p>Format: workshop<br>
 Length: 2 hours</p>
-
+<br>
 <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20actual%20problems%20workshop">Book problem solving workshop</a></div>
 
 <details>
@@ -381,7 +405,12 @@ Length: 2 hours</p>
 Product management
 {: .meta }
 
-Workshop and tools to help you measure value, estimate cost and track both through delivery.
+Improve reporting governance by learning how to measure value, estimate cost and track both through delivery.
+
+Format: workshop
+Length: 2 hours
+<br>
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20measuring%20values%20workshop">Book a measuring values workshop</a></div>
 
 <details>
   <summary><span class="summary">More about measuring value</span></summary>
@@ -390,7 +419,6 @@ Workshop and tools to help you measure value, estimate cost and track both throu
     <ul class="list list-bullet">
       <li>ensures successful outcomes and effective reporting governance</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20measuring%20values%20workshop">Book a measuring values workshop</a></div>
   </div>
 
 </details>
@@ -407,7 +435,12 @@ Workshop and tools to help you measure value, estimate cost and track both throu
 Accessibility and inclusion
 {: .meta }
 
-Awareness raising session covering the full range of access needs, what to consider when building services and interactive session with a case study exercise.
+Learn how to build services that meet a range of access needs and satisfy the Equality Act 2010. Workshops include an interactive session with a case study exercise.
+
+Format: workshop
+Length: 1 day
+<br>
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Place%20on%20access%20needs%20induction">Book a place on access needs induction</a></div>
 
 <details>
   <summary><span class="summary">More about access needs induction</span></summary>
@@ -417,7 +450,6 @@ Awareness raising session covering the full range of access needs, what to consi
       <li>raise awareness of the legal requirements to build accessible services</li>
       <li>equip staff with the skills they need to meet obligations in the Equality Act</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Place%20on%20access%20needs%20induction">Get a place on access needs induction</a></div>
   </div>
 </details>
 
@@ -430,7 +462,12 @@ Awareness raising session covering the full range of access needs, what to consi
 User centred design
 {: .meta }
 
-This 1 hour introduction to content design will give you an overview of what content design is and what content designers do.
+Discover what content design is and what content designers do. Session includes user needs, minimum viable content, how people read, style and structure, and writing content for transactional services.
+
+Format: lunch and learn
+Length: 1 hour
+<br>
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Content%20design%20introduction">Content design introduction</a></div>
 
 <details>
   <summary><span class="summary">More about content design</span></summary>
@@ -443,19 +480,20 @@ This 1 hour introduction to content design will give you an overview of what con
     <ul class="list list-bullet">
       <li>1 hour talk with hands on exercise. Covers user needs, minimum viable content, how people read, style and structure and writing content for transactional services</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Content%20design%20introduction">Content design introduction</a></div>
   </div>
 </details>
 
 </div>
 
 <div class="content" markdown="1">
-## User research studio
+## User research lab
 
 User centred design
 {: .meta }
 
-Cost saving research facility for use with members of the public, and staff - in Croydon and Sheffield.
+User research lab with audio and video recording equipment at Metro Point in Croydon. Teams can watch participants from a different room. Recordings from your session will be shared on the day.
+<br>
+<div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to check availability and book</a></div>
 
 <details>
   <summary><span class="summary">More about the user research studio</span></summary>
@@ -469,19 +507,23 @@ Cost saving research facility for use with members of the public, and staff - in
       <li>observe how your users use your service, where your service is doing well and where it needs improving</li>
       <li>audio and video recordings of your research sessions will be shared on the day</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to check availability and book</a></div>
   </div>
 </details>
 
 </div>
 
 <div class="content" markdown="1">
-## Recruiting user research participants
+## Recruit user research participants
 
 User centred design
 {: .meta }
 
-Help with finding people to take part in user research and usability testing on your project. How to use in-house recruitment,  incentives, procure external suppliers, and advice on how to include a diverse range of users.
+We can help you find people for user research and usability testing. For example, we can provide lists of potential research participants or help you source new participants. We can also use internal access needs panels to provide contacts for recruitment.
+
+Format: personal advice
+Length: recruiting participants using external agencies can take up to 8 weeks, or 4 weeks if using in-house teams; contacts for recruitment can be supplied within 2 weeks.
+<br>
+<div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to book</a></div>
 
 <details>
   <summary><span class="summary">More about recruiting participants</span></summary>
@@ -497,7 +539,7 @@ Help with finding people to take part in user research and usability testing on 
       <li>networks and contacts you can approach</li>
       <li>datasets and research panels you can mine for participants</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to book</a></div>
+
   </div>
 </details>
 
@@ -509,7 +551,12 @@ Help with finding people to take part in user research and usability testing on 
 User centred design
 {: .meta }
 
-Access to a collection of insight gleaned from user research to add to your knowledge base. Real insights from real projects. Pointers on how to find information on Sharepoint and the best people to speak with to find out more.
+Access to a bank of information discovered through past user research. We can tell you how to find information on SharePoint and who to speak to about specific findings.
+
+Format: documents, photos, video clips and html content; briefing from user researchers on specific findings
+Length: assets and links collated and shared within 2 weeks
+<br>
+<div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to book</a></div>
 
 <details>
   <summary><span class="summary">More about our research knowledge store</span></summary>
@@ -525,7 +572,6 @@ Access to a collection of insight gleaned from user research to add to your know
     <ul class="list list-bullet">
       <li>a knowledge base to inform future research on your project</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:researchservices@digital.homeoffice.gov.uk">Contact our research team to book</a></div>
   </div>
 </details>
 
