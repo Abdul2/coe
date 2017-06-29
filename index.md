@@ -328,21 +328,26 @@ How to use the GDS prototyping kit to quickly create prototype government servic
 
 <div class="content" markdown="1">
 
-## Actual problems to be solved
+## Problem solving with service design
 
 Service design
 {: .meta }
 
-How to identify the problem you want your product or service to solve.
+How to discover the problems you want your service to solve. Advice includes achieving policy intent and desired outcomes.
+
+<p>Format: workshop<br>
+Length: 2 hours</p>
 
 <details>
   <summary><span class="summary">More about the actual problems workshop</span></summary>
   <div class="panel panel-border-narrow">
+    <p>Format: workshop<br>
+    Length: 2 hours</p>
     <h3>Benefits:</h3>
     <ul class="list list-bullet">
       <li>better achieve policy intent and desired outcomes when we're going to spend money on services</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20actual%20problems%20workshop">Book an actual problems workshop</a></div>
+    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20actual%20problems%20workshop">Book problem solving workshop</a></div>
   </div>
 
 </details>
