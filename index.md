@@ -39,12 +39,17 @@ Length: 0.5 day
 
 <div class="content" markdown="1">
 
-## Gap analysis / health check
+## Service health check
 
 Digital Service Standard
 {: .meta }
 
-Check service against the Digital Service Standard.
+Discover where your service is against the Digital Service Standard. We’ll give you feedback at the end of the session, with advice on developing your service. Follow-up help and advice are also available.
+
+Format: workshop
+Length: 2 to 3 hours
+
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analysis/healthcheck">Book a service health check</a></div>
 
 <details>
   <summary><span class="summary">More about Gap analysis / health checks</span></summary>
@@ -57,7 +62,6 @@ Check service against the Digital Service Standard.
     <ul class="list list-bullet">
       <li>feedback at the end of the session, with follow up if needed</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analysis/healthcheck">Book a analysis/health check</a></div>
   </div>
 </details>  
 
@@ -67,12 +71,17 @@ Check service against the Digital Service Standard.
 
 <div class="content" markdown="1">
 
-## Digital Service Standard induction
+## Introduction to the Digital Service Standard
 
 Digital Service Standard
 {: .meta }
 
-Overview of the Digital Service Standard and how it's assessed. Can be tailored to attendees.
+An overview of the GDS Digital Service Standard. We’ll explain the 18 criteria and show you how to apply them to your service.
+
+Format: lunch and learn
+Length: 1 hour
+
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20standards%induction">Book an intro to standards</a></div>
 
 <details>
   <summary><span class="summary">More about service standard inductions</span></summary>
@@ -86,7 +95,6 @@ Overview of the Digital Service Standard and how it's assessed. Can be tailored 
     <ul class="list list-bullet">
       <li>team gains basic understanding of the Digital Service Standard and how it's applied</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20standards%induction">Book a standards induction</a></div>
   </div>
 </details>
 
@@ -97,12 +105,17 @@ Overview of the Digital Service Standard and how it's assessed. Can be tailored 
 
 <div class="content" markdown="1">
 
-## Web analytics consultancy and self-service tools
+## Web analytics consultancy
 
 Service design
 {: .meta }
 
-Self service tooling (eg. Add Google Analytics to your product), and 2 hour face to face training on how to use it to measure success.
+Analytics tools such as Google Analytics will be added to your service and you’ll receive training on understanding and using the data generated. For example, you’ll learn how to identify problems in your service or measure how it’s performing. You’ll also receive a written summary and report.
+
+Format: installation of analytics tools plus training session
+Length: 1 day for installation; 2 hours for training session
+
+<div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analytics%20consultancy">Book an analytics consultancy</a></div>
 
 <details>
   <summary><span class="summary">More about analytics consultancy</span></summary>
@@ -115,7 +128,6 @@ Self service tooling (eg. Add Google Analytics to your product), and 2 hour face
     <ul class="list list-bullet">
       <li>identify the right analytics tools to use, and an initial set of things to help measure success</li>
     </ul>
-    <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analytics%20consultancy">Book a analytics consultancy</a></div>
   </div>
 </details>
 
