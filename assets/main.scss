@@ -762,7 +762,7 @@ hr {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   vertical-align: top;
-}
+      }
 
 .button-secondary:hover {
   background-color: #B6B8B9;
@@ -1740,9 +1740,4 @@ ul.tab--nav {
       background-color: #ffbf47;
       outline-offset: -3px;
     }
-}
-
-details ul {
-  @extend .list;
-  @extend .list-bullet;
 }
