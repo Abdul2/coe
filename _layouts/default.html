@@ -57,14 +57,19 @@
             <p class="meta">{{ post.category }}</p>
             {{ post.excerpt }}
 
-            <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analysis/healthcheck">Book a service health check</a></div>
+            <div class="cta">
+              <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analysis/healthcheck">Book a service health check</a></div>
+            </div>
 
+            {% capture truncated_content %}{{ post.content | remove: post.excerpt }}{% endcapture %}
+            {% unless truncated_content.size == 0 %}
             <details>
               <summary><span class="summary">More about {{ post.title | escape }}</span></summary>
               <div class="panel panel-border-narrow">
                 {{ post.content | remove: post.excerpt }}
               </div>
             </details>
+            {% endunless %}
 
           </div>
 
