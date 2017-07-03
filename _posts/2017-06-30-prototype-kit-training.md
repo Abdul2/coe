@@ -2,7 +2,7 @@
 layout: post
 title:  "Prototype kit training"
 date:   2017-06-30 11:05:52 +0100
-category: Digital Service Standard
+category: User centred design
 excerpt_separator: <!--more-->
 ---
 
