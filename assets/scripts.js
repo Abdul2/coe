@@ -6,14 +6,11 @@ jQuery.expr[':'].Contains = function(a, i, m) {
       .indexOf(m[3].toUpperCase()) >= 0;
 };
 
-// OVERWRITES old selecor
+// OVERWRITES old selector
 jQuery.expr[':'].contains = function(a, i, m) {
   return jQuery(a).text().toUpperCase()
       .indexOf(m[3].toUpperCase()) >= 0;
 };
-
-
-
 
 // Meta filter links
 $('.jsMetaFilter').click(function(e) {
@@ -29,5 +26,4 @@ $('.jsMetaFilter').click(function(e) {
 
   $('.tab--nav .active').removeClass('active')
   $(this).addClass('active');
-
 });
