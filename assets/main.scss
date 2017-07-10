@@ -1742,6 +1742,11 @@ ul.tab--nav {
     }
 }
 
+.post-title {
+  font-size: 44px;
+  margin-bottom: 0.5em;
+}
+
 details ul {
   @extend .list;
   @extend .list-bullet;

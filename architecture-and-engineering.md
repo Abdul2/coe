@@ -5,4 +5,4 @@ permalink: /architecture-and-engineering
 category: "Architecture and engineering"
 ---
 
-Some content
+The architecture and engineering team provide training and inductions for our developer community.
