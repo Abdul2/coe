@@ -2,25 +2,50 @@
 layout: default
 ---
 
-<div class="home">
+<div class="grid-row">
+  <div class="column-full">
+    {% include intro.html %}
+  </div>
+</div>
+<div class="grid-row">
 
-  <h1 class="page-heading">Posts</h1>
-  
-  {{ content }}
+    {% include standards.html %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+</div>
+<div class="grid-row">
+  <div class="column-full">
+    {% include help.html %}
+  </div>
+</div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="grid-row">
+  <div class="column-one-third">
+    <h2 class="heading-small"><a href="">Accessibility and inclusion</a></h2>
+    <p>Lorem ipsum dolor sit amet.</p>
+  </div>
+  <div class="column-one-third">
+    <h2 class="heading-small"><a href="">Architecture and engineering</a></h2>
+    <p>Lorem ipsum dolor sit amet.</p>
+  </div>
+  <div class="column-one-third">
+    <h2 class="heading-small"><a href="">Digital Service Standard</a></h2>
+    <p>Lorem ipsum dolor sit amet.</p>
+  </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+</div>
+
+<div class="grid-row">
+  <div class="column-one-third">
+    <h2 class="heading-small"><a href="">Product management</a></h2>
+    <p>Lorem ipsum dolor sit amet.</p>
+  </div>
+  <div class="column-one-third">
+    <h2 class="heading-small"><a href="">Service design</a></h2>
+    <p>Lorem ipsum dolor sit amet.</p>
+  </div>
+  <div class="column-one-third">
+    <h2 class="heading-small"><a href="">User centred design</a></h2>
+    <p>Lorem ipsum dolor sit amet.</p>
+  </div>
 
 </div>
