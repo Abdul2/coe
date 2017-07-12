@@ -6,17 +6,8 @@ category: Accessibility and inclusion
 excerpt_separator: <!--more-->
 ---
 
-Co-create and trial intervention(s) to increase channel shift for a given service.
+We can work with you to create and test interventions to increase channel shift. You’ll receive a summary of findings and a detailed report, which you can use to confirm a course of action or share with other teams.
 
-<!--more-->
 
-## Benefits
-
-- test the effectiveness of interventions in specific contexts to provide evidence for a course of action
-
-## Outputs
-
-- data and evidence in the form of a high level summary and a detailed report to inform decisions around channel shift and assited digital support provision
-
-[Book](mailto:amy.everett@digital.homeoffice.gov.uk)
-
+Format: commissioned service
+Length: case dependent
