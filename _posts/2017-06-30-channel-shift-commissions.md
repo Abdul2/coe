@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Channel Shift commissions"
+title:  "Channel shift commissions"
 date:   2017-06-30 12:05:52 +0100
 category: Accessibility and inclusion
 excerpt_separator: <!--more-->
@@ -10,4 +10,5 @@ We can work with you to create and test interventions to increase channel shift.
 
 
 Format: commissioned service
+
 Length: case dependent
