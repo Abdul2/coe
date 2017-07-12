@@ -5,4 +5,4 @@ permalink: /digital-service-standard
 category: "Digital Service Standard"
 ---
 
-All the help you need in passing the Service Standard and working with Government Digital Service (GDS).
+Advice on meeting the 18 points in the Digital Service Standard and working with GDS
