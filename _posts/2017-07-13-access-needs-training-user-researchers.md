@@ -8,6 +8,5 @@ excerpt_separator: <!--more-->
 
 A training course designed to teach user researchers how and when to recruit people with access needs. The course also covers conducting research with people who have different access needs and how to communicate with deaf people.
 
-Format: training session
-
+Format: training session  
 Length: ½ day
