@@ -10,4 +10,4 @@ A training course designed to teach user researchers how and when to recruit peo
 
 Format: training session
 
-Length: 0.5 day
+Length: ½ day
