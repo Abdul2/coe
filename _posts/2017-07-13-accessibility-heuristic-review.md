@@ -8,6 +8,5 @@ excerpt_separator: <!--more-->
 
 A collaborative review of your service with an in-house accessibility expert to find barriers for people with access needs. Includes testing with a common screen reader.
 
-Format: review
-
+Format: review  
 Length: 1 to 3 days for review and analysis. Includes time with your team to explain results and decide on next steps
