@@ -8,7 +8,6 @@ excerpt_separator: <!--more-->
 
 We can work with you to create and test interventions to increase channel shift. You’ll receive a summary of findings and a detailed report, which you can use to confirm a course of action or share with other teams.
 
-
-Format: commissioned service
-
+ 
+Format: commissioned service  
 Length: depends on needs
