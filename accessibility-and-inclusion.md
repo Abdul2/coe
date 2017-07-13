@@ -5,4 +5,4 @@ permalink: /accessibility-and-inclusion
 category: "Accessibility and inclusion"
 ---
 
-The accessibility team help
+Help and advice on making your service accessible for everyone. <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Email us</a> for more information.
