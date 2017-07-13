@@ -9,5 +9,4 @@ excerpt_separator: <!--more-->
 Learn how to develop higher quality code that meets Home Office standards. The course also covers reducing risk and spreading knowledge. The workshop is tailored to your needs.
 
 Format: workshop
-
 Length: depends on needs
