@@ -11,4 +11,4 @@ We can work with you to create and test interventions to increase channel shift.
 
 Format: commissioned service
 
-Length: case dependent
+Length: depends on needs
