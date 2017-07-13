@@ -8,5 +8,5 @@ excerpt_separator: <!--more-->
 
 Help and advice for user researchers on meeting all assisted digital requirements, including point 14 of the Digital Service Standard. We’ll assess project research, and provide feedback and suggestions for next steps.
 
-Format: consultancy
+Format: consultancy  
 Length: 2 hours
