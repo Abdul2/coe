@@ -10,16 +10,3 @@ An overview of the GDS Digital Service Standard. We'll explain the 18 criteria a
 
 Format: lunch and learn  
 Length: 1 hour
-
-<!--more-->
-
-## Benefits
-
-- raise awareness of what the Digital Service Standard is and what it means for the team
-- build understanding of how to build the right products in the right way, from the start
-
-## Outputs
-
-- team gains basic understanding of the Digital Service Standard and how it's applied
-
-
