@@ -10,18 +10,3 @@ Content designers and subject matter experts pair up to write clear and accurate
 
 Format: workshop  
 Length: 4 hours
-
-<!--more-->
-
-## Benefits
-
-- content designers and subject matter experts agree user needs and content creation process from the start
-
-## Outputs
-
-- understand how to write content that is both clear and legally accurate
-
-
-
-
-
