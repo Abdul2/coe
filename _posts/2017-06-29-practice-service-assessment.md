@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 A rehearsal assessment to find weak areas in your service before its GDS assessment. Home Office assessors will give feedback on your presentation and write a report of findings and recommendations.
 
 Format: workshop  
-Length: 0.5 days
+Length: ½ day
 
 <!--more-->
 
@@ -22,5 +22,3 @@ Length: 0.5 days
 
 - a written report with clear findings and recommendations
 - feedback on the presentation
-
-
