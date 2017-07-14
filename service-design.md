@@ -5,4 +5,4 @@ permalink: /service-design
 category: "Service design"
 ---
 
-Common problems we tackle in service design include enabling people to prove their identity or eligibility for something, and helping people understand what they’re entitled to. 
+The service design can help solve problems on your service, for example working out ways people can prove their identity or eligibility. <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Email us</a> for more information. 
