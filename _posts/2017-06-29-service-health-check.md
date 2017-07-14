@@ -10,14 +10,3 @@ Discover where your service is against the Digital Service Standard. We'll give 
 
 Format: workshop  
 Length: 2 to 3 hours
-
-<!--more-->
-
-## Benefits
-
-- understand where your service is against the standard, so we can offer the right support for future development
-
-## Outputs
-
-- feedback at the end of the session, with follow up if needed
-
