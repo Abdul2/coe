@@ -10,15 +10,3 @@ Analytics tools such as Google Analytics will be added to your service and youâ€
 
 Format: installation of analytics tools plus training session  
 Length: 1 day for installation; 2 hours for training session
-
-<!--more-->
-
-## Benefits
-
-- learn to identify the right problem to solve and measure how your service is performing
-
-## Outputs
-
-- identify the right analytics tools to use, and an initial set of things to help measure success
-
-
