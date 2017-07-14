@@ -10,15 +10,3 @@ A rehearsal assessment to find weak areas in your service before its GDS assessm
 
 Format: workshop  
 Length: ½ day
-
-<!--more-->
-
-## Benefits
-
-- reduce risk of failing or being unprepared for the GDS assessment
-- identify any points where team may need to prepare more information
-
-## Outputs
-
-- a written report with clear findings and recommendations
-- feedback on the presentation
