@@ -8,14 +8,4 @@ excerpt_separator: <!--more-->
 
 Advice on when to speak to GDS about your service and what to show them. For example, when and how to seek funding approval, support or an assessment.
 
-Format: personal advice
-
-<!--more-->
-
-## Benefits
-
-- access GDS support, get approval to spend money on a digital project
-
-## Outputs
-
-- output of next steps depends on the service
+Format: personal advice 
