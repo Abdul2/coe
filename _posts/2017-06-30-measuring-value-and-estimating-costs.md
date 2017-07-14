@@ -10,10 +10,3 @@ Improve reporting governance by learning how to measure value, estimate cost and
 
 Format: workshop  
 Length: 2 hours
-
-<!--more-->
-
-## Benefits
-
-- ensures successful outcomes and effective reporting governance
-
