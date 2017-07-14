@@ -6,47 +6,14 @@ category: Architecture and engineering
 excerpt_separator: <!--more-->
 ---
 
-Hand-on course on deploying applications in Kubernetes using Drone and ephemeral namespaces.
+Learn how to deploy applications in Kubernetes using Drone and ephemeral namespaces. Learn how to create, manage and debug secrets and configs in Kubernetes, deploy locally to Minikube and how to create and destroy namespaces for ephemeral deployments with Drone and Kubernetes.  
+The workshop will also cover how to dockerise the Hello World app, deploy to Minikube, deploy with a template, deploy to CI Cluster (manually creating a namespace), secrets - adding secrets to Hello World, deploying secrets to Minikube and editing secrets - deploy to Cluster, ephemeral namespaces, Drone pipeline set-up with Quay and testing ephemeral namespaces.
 
-### Format
-
-This event is organised on a ad-hoc basis. This is a half-day hands-on workshop.
-
-#### Agenda
-
-- Dockerise Hello World app
-- Deploy to Minikube
-- Deploy with a template
-- Deploy to CI Cluster *(manually creating a namespace)*
-- Secrets
-- Add secret to hello world
-- Deploy to minikube
-- Edit secrets
-- Deploy to cluster
-- Ephemeral namespaces
-- Drone pipeline setup (with Quay)
-- Ephemeral namespace
-- Testing the ephemeral namespace
-
-### Objectives
-
-By the end of the course you will:
-
-- Know how to create, manage and debug secrets and configs in Kubernetes
-- Be confident deploying locally to Minikube
-- Know how to create and destroy namespaces for ephemeral deployments with Drone and Kubernetes
-
-### Register
-
-Please get in touch with the Centre of Excellence for Engineering and Architecture: [engineering@digital.homeoffice.gov.uk](mailto:engineering@digital.homeoffice.gov.uk).
-
-### Details
-
-#### Prerequisites
+Install Kubectl, Minikube and docker before the workshop and make sure you have access to the vpn.
 
 - `kubectl` is installed
 - `docker` is installed
 - You have access to the vpn
 - `minikube` is installed
 
-You can follow the [instruction here](https://github.com/UKHomeOffice/application-container-platform) to install all the above.
+[Install these here](https://github.com/UKHomeOffice/application-container-platform).
