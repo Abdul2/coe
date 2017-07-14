@@ -10,17 +10,3 @@ An overview of user centred design for researchers and designers. Explores overl
 
 Format: workshop  
 Length: 4 hours
-
-<!--more-->
-
-## Benefits
-
-- help research and design people understand boundaries and overlap between roles
-
-## Outputs
-
-- Consistent approach to user centred design
-
-
-
-
