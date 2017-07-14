@@ -10,16 +10,3 @@ Discover if your service meets points 12 and 13 of the Digital Service Standard.
 
 Format: written report  
 Length: report sent within 1 week
-
-<!--more-->
-
-## Benefits
-
-- design services that are more likely to meet points 12 and 13 of the Digital Service Standard
-
-## Outputs
-
-- written review with clear recommendations
-
-
-
