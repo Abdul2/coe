@@ -8,4 +8,6 @@ excerpt_separator: <!--more-->
 
 Advice on when to speak to GDS about your service and what to show them. For example, when and how to seek funding approval, support or an assessment.
 
-Format: personal advice 
+Format: personal advice
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Rosanna Fairthorne</a> for more information.

@@ -7,3 +7,5 @@ excerpt_separator: <!--more-->
 ---
 
 An online library of design patterns to create consistency between Home Office services and GDS designs.
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Michael Owen</a> for more information.

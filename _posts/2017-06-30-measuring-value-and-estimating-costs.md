@@ -10,3 +10,5 @@ Improve reporting governance by learning how to measure value, estimate cost and
 
 Format: workshop  
 Length: 2 hours
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Toby Smith</a> for more information.

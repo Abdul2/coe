@@ -10,3 +10,5 @@ Learn how to use the GDS prototyping kit to create services that are ready to te
 
 Format: workshop  
 Length: 2 hours
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Chris Taylor and Michael Owen</a> for more information.

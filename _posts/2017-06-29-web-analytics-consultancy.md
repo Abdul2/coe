@@ -10,3 +10,5 @@ Analytics tools such as Google Analytics will be added to your service and youâ€
 
 Format: installation of analytics tools plus training session  
 Length: 1 day for installation; 2 hours for training session
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Kate Tarling</a> for more information.

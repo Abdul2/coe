@@ -11,3 +11,5 @@ Learn the technical requirements needed to deploy to the Kubernetes platform. Yo
 
 Format: workshop  
 Length: 2 hours
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Daniele Polencic</a> for more information.

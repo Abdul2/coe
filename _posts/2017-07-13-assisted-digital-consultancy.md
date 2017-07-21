@@ -10,3 +10,5 @@ Help and advice for user researchers on meeting all assisted digital requirement
 
 Format: consultancy  
 Length: 2 hours
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Amy Everett</a> for more information.

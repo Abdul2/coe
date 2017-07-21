@@ -10,3 +10,5 @@ Content designers and subject matter experts pair up to write clear and accurate
 
 Format: workshop  
 Length: 4 hours
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Lynne Roberts</a> for more information.

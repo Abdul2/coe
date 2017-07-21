@@ -10,3 +10,5 @@ An overview of the GDS Digital Service Standard. We'll explain the 18 criteria a
 
 Format: lunch and learn  
 Length: 1 hour
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Rosanna Fairthorne</a> for more information.

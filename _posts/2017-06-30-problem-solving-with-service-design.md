@@ -10,3 +10,5 @@ How to discover the problems you want your service to solve. Advice includes ach
 
 Format: workshop  
 Length: 2 hours
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Kate Tarling</a> for more information.

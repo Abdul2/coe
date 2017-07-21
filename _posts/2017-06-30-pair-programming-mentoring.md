@@ -10,3 +10,5 @@ Learn how to develop higher quality code that meets Home Office standards. The c
 
 Format: workshop  
 Length: depends on needs
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Daniele Polencic</a> for more information.

@@ -10,3 +10,5 @@ A training course designed to raise awareness of accessibility needs. The course
 
 Format: training session  
 Length: 1 day
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Amy Everett and James Buller</a> for more information.

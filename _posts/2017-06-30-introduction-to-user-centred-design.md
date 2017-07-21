@@ -10,3 +10,5 @@ An overview of user centred design for researchers and designers. Explores overl
 
 Format: workshop  
 Length: 4 hours
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Chris Taylor</a> for more information.

@@ -10,3 +10,5 @@ Discover what content design is and what content designers do. Session includes 
 
 Format: lunch and learn  
 Length: 1 hour
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Lynne Roberts</a> for more information.

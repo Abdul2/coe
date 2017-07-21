@@ -16,20 +16,18 @@ This is a full day, hands-on course. [Read the agenda](https://developer-inducti
 
 By the end of the course you will:
 
-- Know how to deploy to the ACP platform
-- Able to set up a continuous integration pipeline with Drone
-- Able to build, run and debug Docker containers
-- Familiar with how we operate within the Home Office
-- Aware of the Home Office's open source policy
-- Familiar with the security and accessibility practice at the Home Office
+- know how to deploy to the ACP platform
+- able to set up a continuous integration pipeline with Drone
+- able to build, run and debug Docker containers
+- familiar with how we operate within the Home Office
+- aware of the Home Office's open source policy
+- familiar with the security and accessibility practice at the Home Office
 
 ### Register
 
-You can book a ticket on Eventbrite:
+You can book a ticket on Eventbrite - https://{month}-2017-dev-induction.eventbrite.co.uk
 
-https://{month}-2017-dev-induction.eventbrite.co.uk
-
-Please replace `{month}` with the current month. As an example, for June 2017, the url is https://june-2017-dev-induction.eventbrite.co.uk.
+Replace `{month}` with the current month. For example June 2017 would be https://june-2017-dev-induction.eventbrite.co.uk.
 
 ### Details
 
@@ -44,7 +42,7 @@ Please ensure that before the day you:
 - Have an Office 365 account
 - Completed the Developer Setup Guide
 - Have access to the _dev-induction_ namespace. Test using: `kubectl --namespace=dev-induction get pods`
-- Are a member of the UKHomeOffice Github org, with 2FA enabled and your full name on your Github account (this is a separate field to username) so we can identify you 
+- Are a member of the UKHomeOffice Github org, with 2FA enabled and your full name on your Github account (this is a separate field to username) so we can identify you
 - Can access drone - [https://drone.digital.homeoffice.gov.uk/](https://drone.digital.homeoffice.gov.uk/)
 
 ### Feedback

@@ -10,3 +10,5 @@ Discover where your service is against the Digital Service Standard. We'll give 
 
 Format: workshop  
 Length: 2 to 3 hours
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Rosanna Fairthorne</a> for more information.

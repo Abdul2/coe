@@ -10,3 +10,5 @@ A training course designed to teach user researchers how and when to recruit peo
 
 Format: training session  
 Length: ½ day
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">James Buller</a> for more information.

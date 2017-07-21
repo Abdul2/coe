@@ -11,3 +11,5 @@ Learn how to build services that meet a range of access needs and satisfy the Eq
 
 Format: workshop  
 Length: 1 day
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">James Buller</a> for more information.

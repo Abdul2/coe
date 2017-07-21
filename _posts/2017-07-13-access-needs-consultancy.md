@@ -10,3 +10,5 @@ Face to face or remote consultation to make sure your IT meets access needs. Ser
 
 Format: personal advice  
 Length: 1 to 2 hours for consultation; ½ day for support session
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">James Buller</a> for more information.

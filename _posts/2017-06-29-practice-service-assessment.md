@@ -10,3 +10,5 @@ A rehearsal assessment to find weak areas in your service before its GDS assessm
 
 Format: workshop  
 Length: ½ day
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Rosanna Fairthorne</a> for more information.

@@ -10,3 +10,5 @@ Guided team planning workshop. Session includes goal setting, agreeing ways of w
 
 Format: workshop  
 Length: 1 day
+
+Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Rosanna Fairthorne</a> for more information.
