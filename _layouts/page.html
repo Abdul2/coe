@@ -37,10 +37,6 @@ layout: default
           <p class="meta">{{ post.category }}</p>
           {{ post.excerpt }}
 
-          <!-- <div class="cta">
-            <div class="button-secondary"><a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk?subject=Book%20a%20analysis/healthcheck">Book a service health check</a></div>
-          </div> -->
-
           {% capture truncated_content %}{{ post.content | remove: post.excerpt }}{% endcapture %}
           {% unless truncated_content.size == 0 %}
           <details>
