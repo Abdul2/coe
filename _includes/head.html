@@ -6,12 +6,12 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <!--[if gt IE 8]><!--><link rel="stylesheet" href="{{ "assets/main.css" | absolute_url }}">
+  <!--[if gt IE 8]><!--><link rel="stylesheet" href="{{ "/assets/main.css" | absolute_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <!--<![endif]-->
-<!--[if IE 6]><link href="{{ "/assets/main-ie6.css" | relative_url }}" media="screen" rel="stylesheet" /><![endif]-->
-<!--[if IE 7]><link href="{{ "/assets/main-ie7.css" | relative_url }}" media="screen" rel="stylesheet" /><![endif]-->
-<!--[if IE 8]><link href="{{ "/assets/main-ie8.css" | relative_url }}" media="screen" rel="stylesheet" /><![endif]-->
+<!--[if IE 6]><link href="{{ "/assets/main-ie6.css" | absolute_url }}" media="screen" rel="stylesheet" /><![endif]-->
+<!--[if IE 7]><link href="{{ "/assets/main-ie7.css" | absolute_url }}" media="screen" rel="stylesheet" /><![endif]-->
+<!--[if IE 8]><link href="{{ "/assets/main-ie8.css" | absolute_url }}" media="screen" rel="stylesheet" /><![endif]-->
 
 
 
