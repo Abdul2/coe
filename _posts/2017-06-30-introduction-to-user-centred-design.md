@@ -6,7 +6,7 @@ category: User centred design
 excerpt_separator: <!--more-->
 ---
 
-An overview of user centred design for researchers and designers. Explores overlaps between the professions to ensure a consistent approach to work.
+An introduction to the benefits of user centred design, and how our researchers and designers apply the principles at the Home Office. The session explores the overlaps between the professions, and how this ensures a consistent approach to work.
 
 Format: workshop  
 Length: 4 hours

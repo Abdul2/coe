@@ -6,7 +6,7 @@ category: Accessibility and inclusion
 excerpt_separator: <!--more-->
 ---
 
-Face to face or remote consultation to make sure your IT meets access needs. Service includes advice, support materials and research resources.
+Face to face or remote consultation to make sure your IT or digital service is accessible to users with access needs. This service includes advice, support materials and research resources.
 
 Format: personal advice  
 Length: 1 to 2 hours for consultation; ½ day for support session

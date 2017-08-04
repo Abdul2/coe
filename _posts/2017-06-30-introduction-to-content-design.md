@@ -6,7 +6,7 @@ category: User centred design
 excerpt_separator: <!--more-->
 ---
 
-Discover what content design is and what content designers do. Session includes user needs, minimum viable content, how people read, style and structure, and writing content for transactional services.
+Discover what content design is and what content designers do. The session covers user needs, minimum viable content, how people read online, the importance of style and structure, and writing content for transactional services.
 
 Format: lunch and learn  
 Length: 1 hour

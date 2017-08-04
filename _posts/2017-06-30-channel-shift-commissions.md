@@ -6,7 +6,7 @@ category: Accessibility and inclusion
 excerpt_separator: <!--more-->
 ---
 
-We can work with you to create and test interventions to increase channel shift. You’ll receive a summary of findings and a detailed report, which you can use to confirm a course of action or share with other teams.
+We will work with you to design and test methods that will help with channel shifting. You’ll receive a summary of findings and a detailed report, which you can use to determine a course of action or share with other teams.
 
 Format: commissioned service  
 Length: depends on needs
