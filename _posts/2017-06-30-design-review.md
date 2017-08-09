@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design review"
+title:  "Content and design review"
 date:   2017-06-30 10:37:52 +0100
 category: User centred design
 excerpt_separator: <!--more-->
