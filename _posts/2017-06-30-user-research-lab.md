@@ -6,6 +6,6 @@ category: User centred design
 excerpt_separator: <!--more-->
 ---
 
-User research lab with audio and video recording equipment at Metro Point in Croydon. Teams can watch participants from a different room. Recordings from your session will be shared on the day.
+Visit our user research lab and remote observation room at Metro Point in Croydon, and see how real users of your service interact with the designs. Audio and video recordings from the session can be shared.
 
 Contact <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">Amy Everett</a> for more information.

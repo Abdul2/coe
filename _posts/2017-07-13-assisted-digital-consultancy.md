@@ -6,7 +6,7 @@ category: Accessibility and inclusion
 excerpt_separator: <!--more-->
 ---
 
-Help and advice for user researchers on meeting all assisted digital requirements, including point 14 of the Digital Service Standard. We’ll assess project research, and provide feedback and suggestions for next steps.
+Help and advice for user researchers on meeting assisted digital requirements, including point 14 of the Digital Service Standard. Experts will assess project research, and provide feedback and suggestions for next steps.
 
 Format: consultancy  
 Length: 2 hours

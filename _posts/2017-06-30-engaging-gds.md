@@ -6,7 +6,7 @@ category: Digital Service Standard
 excerpt_separator: <!--more-->
 ---
 
-Advice on when to speak to GDS about your service and what to show them. For example, when and how to seek funding approval, support or an assessment.
+Advice on when to speak to GDS about your service and what to show them. For example, when and how to seek funding approval, general support or to book an assessment.
 
 Format: personal advice
 

@@ -6,7 +6,7 @@ category: User centred design
 excerpt_separator: <!--more-->
 ---
 
-Content designers and subject matter experts pair up to write clear and accurate content. Session includes identifying user needs and best practice.
+Content designers and subject matter experts pair up to write clear and accurate content using a quick technique that results in better content and fewer drafting iterations. Session includes identifying user needs and best practice.
 
 Format: workshop  
 Length: 4 hours

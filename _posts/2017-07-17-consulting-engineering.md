@@ -15,16 +15,20 @@ A developer from the Centre of Excellence for Engineering and Architecture will 
 ### Objectives
 
 By the end of the course your team will:
-
-- Be Aware of best practises at the Home Office
-- Gain valuable knowledge on central tooling and infrastructure
-- Be confident delivering software in accordance with the Home Office Technical Code of Practice
-- Speed up delivery by using proven tecniques
+<ul class="list-bullet">
+  <li>be aware of best practices at the Home Office</li>
+  <li>gain valuable knowledge on central tooling and infrastructure</li>
+  <li>be confident delivering software in accordance with the Home Office Technical Code of Practice</li>
+  <li>speed up delivery by using proven techniques</li>
+</ul>
 
 ### Details
+The developer will
+<ul class="list-bullet">
+<li>join your team for 4 weeks (2 sprints)</li>
+<li>help deliver software just like any other developer</li>
+<li>be 100% dedicated to your team</li>
+<li>pair with your team and won't work on any tasks in isolation</li>
+</ul>
 
-- A developer will augment your team for 4 weeks (2 sprints)
-- They will help you to deliver software as any other developer
-- They will be 100% dedicated to your team
-- You won't be able to request the same person to stay in the team for longer than 4 weeks
-- A developer will pair with your team and you agree that they won't work on any task in isolation
+You can't request the same person stays in the team for more than 4 weeks.

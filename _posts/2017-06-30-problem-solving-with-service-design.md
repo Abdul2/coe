@@ -6,7 +6,7 @@ category: Service design
 excerpt_separator: <!--more-->
 ---
 
-How to discover the problems you want your service to solve. Advice includes achieving policy intent and desired outcomes.
+How to get to the root of the problem you want your service to solve. Advice includes achieving policy intent and desired outcomes.
 
 Format: workshop  
 Length: 2 hours
