@@ -34,7 +34,7 @@ layout: default
         {% if post.category contains page.category %}
         <div class="content" markdown="1">
           <h2 id="{{ post.title | slugify }}">{{ post.title | escape }}</h2>
-          <p class="meta">{{ post.category }}</p>
+          <p class="meta visually-hidden">{{ post.category }}</p>
           {{ post.excerpt }}
 
           {% capture truncated_content %}{{ post.content | remove: post.excerpt }}{% endcapture %}
