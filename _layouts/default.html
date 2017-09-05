@@ -21,7 +21,7 @@
     <div class="header-wrapper">
          <div class="header-global">
            <div class="header-logo">
-             <a class="site-title content" href="/" title="Homepage" id="logo" >{{ site.title | default: site.github.repository_name }}
+             <a class="site-title content" href="{{ site.baseurl }}/" title="Homepage" id="logo" >{{ site.title | default: site.github.repository_name }}
              </a>
              <!-- <h1 class="header-title">
               Centre of excellence
@@ -42,15 +42,15 @@
          <div class="header-proposition">
           <div class="content">
             <nav id="proposition-menu" role="navigation">
-              <a href="/" id="proposition-name">Centre of excellence</a>
+              <a href="{{ site.baseurl }}/" id="proposition-name">Centre of excellence</a>
               <span class="phase-tag">New</span>
               <a href="#proposition-links" class="js-header-toggle menu">Menu</a>
               <ul id="proposition-links">
-                <li><a href="{{ site.url }}/training/">Training</a></li>
-                <li><a href="{{ site.url }}/resources/">Resources</a></li>
-                <li><a href="{{ site.url }}/consultancy">Consultancy</a></li>
-                <!-- <li><a href="{{ site.url }}/standards.html">Standards</a></li> -->
-                <li><a href="{{ site.url }}/contact/">Contact</a></li>
+                <li><a href="{{ site.url }}{{ site.baseurl }}/training/">Training</a></li>
+                <li><a href="{{ site.url }}{{ site.baseurl }}/resources/">Resources</a></li>
+                <li><a href="{{ site.url }}{{ site.baseurl }}/consultancy">Consultancy</a></li>
+                <!-- <li><a href="{{ site.url }}{{ site.baseurl }}/standards.html">Standards</a></li> -->
+                <li><a href="{{ site.url }}{{ site.baseurl }}/contact/">Contact</a></li>
 
               </ul>
             </nav>
@@ -85,6 +85,6 @@
       </script>
     {% endif %}
 
-    <script src="{{ site.url }}assets/js/script.js"></script>
+    <script src="{{ site.url }}{{ site.baseurl }}assets/js/script.js"></script>
   </body>
 </html>
