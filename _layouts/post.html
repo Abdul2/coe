@@ -1,25 +1,22 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+<div id="global-header-bar"></div>
+<main id="content" role="main">
+  <div class="grid-row">
+    <div class="column-two-thirds" >
+      {% include nav-breadcrumbs.html %}
+      <h1 class="heading-large">
+        {% if page.category %}  <span class="heading-secondary">{{ page.category }}</span>{% endif %}
+        {{ page.title }}
+      </h1>
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="column-two-thirds">
+  {{ content }}
+    </div>
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
-</article>
+</main>

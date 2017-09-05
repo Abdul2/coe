@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -33,3 +34,18 @@ exclude:
   - vendor
 
 theme: jekyll-theme-cayman
+=======
+theme: jekyll-theme-cayman
+title: Home Office
+description:
+excerpt_separator: "<!--more-->"
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
+show_downloads: false
+sass:
+    sass_dir: _sass
+google_analytics: UA-100424158-2
+permalink: pretty
+>>>>>>> Stashed changes

@@ -1,0 +1,20 @@
+---
+layout: page
+title: "Resources"
+description: "Resources created to help teams do better work."
+---
+
+<div class="grid-row">
+  <div class="column-two-thirds">
+    <ul class="list-reset">
+        {% for page in site.pages %}
+          {% if page.category contains 'Resource' %}
+          <li class="content">
+            <h2 class="heading-medium"><a href="{{page.url}}">{{ page.title }}</a></h3>
+            <p>{{ page.content | markdownify | strip_html | truncatewords:25 }}</p>
+          </li>
+          {% endif %}
+        {% endfor %}
+    </ul>
+  </div>
+</div>
