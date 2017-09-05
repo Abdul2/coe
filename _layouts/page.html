@@ -1,59 +1,18 @@
 ---
 layout: default
 ---
-
-<article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-    <div class="lede">
-      {{ content }}
-    </div>
-
+<div id="global-header-bar"></div>
+<main id="content" role="main">
   <div class="grid-row">
-    <div class="column-one-third">
-      <h2 class="heading-small" style="padding: 0 15px 15px">Tools, training and standards</h2>
-       <ul class="tab--nav">
-        {% for post in site.posts %}
-          {% if post.category contains page.category %}
-          <li>
-            <a href="#{{ post.title | slugify }}">{{ post.title }}</a>
-          </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-     </div>
-
-    <div class="column-two-thirds">
-      <div class="post-content">
-
-      {% for post in site.posts %}
-
-        {% if post.category contains page.category %}
-        <div class="content" markdown="1">
-          <h2 id="{{ post.title | slugify }}">{{ post.title | escape }}</h2>
-          <p class="meta visually-hidden">{{ post.category }}</p>
-          {{ post.excerpt }}
-
-          {% capture truncated_content %}{{ post.content | remove: post.excerpt }}{% endcapture %}
-          {% unless truncated_content.size == 0 %}
-          <details>
-            <summary><span class="summary">More about {{ post.title | escape }}</span></summary>
-            <div class="panel panel-border-narrow">
-              {{ post.content | remove: post.excerpt }}
-            </div>
-          </details>
-          {% endunless %}
-
-        </div>
-        {% endif %}
-
-      {% endfor %}
-
-      </div>
+    <div class="column-two-thirds" >
+      <h1 class="heading-large">{{ page.title }}</h1>
+      {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="column-full">
+  {{ content }}
     </div>
   </div>
 
-</article>
+</main>

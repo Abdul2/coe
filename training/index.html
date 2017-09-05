@@ -1,0 +1,20 @@
+---
+layout: page
+title: "Training and workshops"
+description: "The centre of excellence offers a broad range of training and workshops. If you need training that we are not covering please let us know."
+---
+
+<div class="grid-row">
+  <div class="column-two-thirds">
+    <ul class="list-reset">
+        {% for page in site.pages %}
+          {% if page.category contains 'Training' %}
+          <li class="content">
+            <h2 class="heading-medium"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+            <p>{{ page.content | markdownify | strip_html | truncatewords:25 }}</p>
+          </li>
+          {% endif %}
+        {% endfor %}
+    </ul>
+  </div>
+</div>
