@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div id="global-header-bar"></div>
+<main id="content" role="main">
+  {% include nav-breadcrumbs.html %}
+  <h1 class="heading-xlarge">
+    {% if page.category %}  <span class="heading-secondary">{{ page.category }}</span>{% endif %}
+    {{ page.title }}
+  </h1>
+
+
+  <div class="grid-row">
+    <div class="column-two-thirds">
+      {% if page.format or page.contact or page.length %}
+       <div class="govuk-metadata direction-ltr" >
+         <!-- <h3 class="heading-medium">Details</h3> -->
+        <dl class="">
+          {% if page.format %}
+          <dt>Format:</dt>
+          <dd>
+            {{ page.format }}
+          </dd>
+          {% endif %}
+          {% if page.length %}
+          <dt>Length:</dt>
+          <dd> {{ page.length }} </dd>
+          {% endif %}
+          {% if page.contact %}
+          <dt>Contact:</dt>
+          <dd>{{ page.contact }}</dd>
+          {% endif %}
+        </dl>
+      </div>
+      {% endif %}
+      {{ content }}
+
+      {% if page.disableCta !=true %}
+        <hr/>
+        <h2 class="heading-large">How to access this</h2>
+        <p>All of our training, resources and consultancy are free to access. If you want to find out more about a session email us and we'll arrange for the subject matter expert to get in touch with you.</p>
+
+        <p>You can also email us to make a booking.</p>
+
+        <div class="panel panel-border-wide">
+          <p>Email us at: <a href="mailto:CentreOfExcellenceCentral@digital.homeoffice.gov.uk">CentreOfExcellenceCentral@digital.homeoffice.gov.uk</a></p>
+        </div>
+      {% endif %}
+    </div>
+    <!-- <div class="column-one-third">
+      <h3 class="heading-medium">Performance data</h3>
+
+    </div> -->
+  </div>
+</main>

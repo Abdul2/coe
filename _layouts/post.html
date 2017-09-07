@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div id="global-header-bar"></div>
+<main id="content" role="main">
+  <div class="grid-row">
+    <div class="column-two-thirds" >
+      {% include nav-breadcrumbs.html %}
+      <h1 class="heading-large">
+        {% if page.category %}  <span class="heading-secondary">{{ page.category }}</span>{% endif %}
+        {{ page.title }}
+      </h1>
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="column-two-thirds">
+  {{ content }}
+    </div>
+  </div>
+
+</main>
