@@ -7,4 +7,4 @@ length: 1 hour
 contact: Rosanna Fairthorne
 ---
 
-An overview of the GDS Digital Service Standard, the 18 criteria and how to apply them to your service.
+An overview of the 18 criteria in the GDS Digital Service Standard and how to apply them to your service.

@@ -2,32 +2,25 @@
 layout: training
 title:  "Developer induction"
 category: Training
-format: Workshop
+format: Monthly workshop
 length: 1 day
 disableCta: true #disabled the 'How to access this' call to action at the bottom of the page template
 ---
 
-An overview of software development best practices within the Home Office.
+You’ll learn how to deploy to the ACP platform, set up a continuous integration pipeline with Drone, and build, run and debug Docker containers.
 
-## Format
+You’ll also learn about the Home Office’s approach to open source policy, security and accessibility.
 
-This is a full day, hands-on course. [You can read the agenda here](https://developer-induction.notprod.homeoffice.gov.uk/#/introduction-agenda).
-This event is organised on a monthly schedule.
-
-## Objectives
-
-By the end of the course you'll:
-
-- know how to deploy to the ACP platform
-- be able to set up a continuous integration pipeline with Drone
-- be able to build, run and debug Docker containers
-- be familiar with how we operate within the Home Office
-- be aware of the Home Office's open source policy
-- be familiar with the security and accessibility practice at the Home Office
+Before attending, make sure you:
+-	have an Office 365 account
+-	have completed the Developer Setup Guide
+-	have access to the dev-induction namespace. Test this using: kubectl --namespace=dev-induction get pods
+-	are a member of the UKHomeOffice Github org, with 2FA enabled and your full name on your Github account (this is a separate field to username) so we can identify you
+can access drone: https://drone.digital.homeoffice.gov.uk/
 
 ## Register
 
-You can book a ticket on Eventbrite - https://{month}-2017-dev-induction.eventbrite.co.uk
+Book at Eventbrite - https://{month}-2017-dev-induction.eventbrite.co.uk
 
 Replace `{month}` with the current month. For example June 2017 would be https://june-2017-dev-induction.eventbrite.co.uk.
 

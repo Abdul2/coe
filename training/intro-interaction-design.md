@@ -7,4 +7,4 @@ length: 1 hour
 contact: Chris Taylor
 ---
 
-An introduction to the interaction design profession and what it is that interaction designers do. This overview describes how designers work with other professions and what you should expect from them on a delivery project.
+An overview of the interaction design profession and what interaction designers do. Learn how designers work with other professions and what you should expect from them on a delivery project.

@@ -7,6 +7,4 @@ length: 1 hour
 contact: Lynne Roberts
 ---
 
-What is content design and what content designers do? The session covers user needs, minimum viable content, how people read online, the importance of style and structure, and writing content for transactional services.
-
-The course provides a useful overview of what content designers do, and the value their work delivers.
+An overview of the content design profession and what content designers do. The session covers user needs, minimum viable content, how people read online, the importance of style and structure, and writing content for transactional services.
