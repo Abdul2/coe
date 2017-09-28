@@ -6,4 +6,4 @@ format: Workshop
 length: Variable
 ---
 
-Learn how to develop higher quality code that meets Home Office standards. We'll also cover reducing risk and spreading knowledge. The workshop will be tailored to your needs.
+Learn how to develop high quality code that meets Home Office standards. The workshop is tailored to your needs, but covers reducing risk and spreading knowledge.
