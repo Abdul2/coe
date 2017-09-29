@@ -1,6 +1,6 @@
 ---
 layout: training
-title:  "Learning Github and the prototyping kit"
+title:  "GitHub and the prototyping kit"
 category: Training
 format: Workshop
 length: 2 hours
