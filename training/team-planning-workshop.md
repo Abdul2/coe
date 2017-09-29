@@ -2,7 +2,7 @@
 layout: training
 title:  "Team planning workshop"
 category: Training
-format: workshop  
+format: Workshop  
 length: 1 day
 ---
 

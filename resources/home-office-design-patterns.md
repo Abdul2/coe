@@ -5,6 +5,4 @@ category: Resource
 disableCta: true #disabled the 'How to access this' call to action at the bottom of the page template
 ---
 
-Designers across the Home Office have pulled together this handy online library of design patterns and components to help create better consistency between Home Office services and GDS designs. If you need help using them, or think there's something missing, get in touch.
-
-[https://home-office-digital-patterns.herokuapp.com](https://home-office-digital-patterns.herokuapp.com)
+An <a href="https://home-office-digital-patterns.herokuapp.com/patterns/">online library of design patterns and components</a> to help create consistency between Home Office services and GDS designs. Email us if you need help using them, or want to talk about adding a new pattern. 
