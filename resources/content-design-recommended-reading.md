@@ -6,7 +6,7 @@ length:
 disableCta: true #disabled the 'How to access this' call to action at the bottom of the page template
 ---
 
-Specialist reading recommended by the content community. 
+Specialist reading recommended by the content design community. 
 
 ## Books
 
