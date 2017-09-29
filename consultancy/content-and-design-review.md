@@ -6,4 +6,4 @@ Format: Report
 Contact: Lynne Roberts and Chris Taylor
 ---
 
-We help ensure your service meets points 12 and 13 of the Digital Service Standard. We'll look at the content and the user interactions within your service - taking into account both style and patterns - and make any necessary recommendations.
+Make sure your service meets points 12 and 13 of the Digital Service Standard. We’ll look at content and user interactions in your service, assessing style and patterns.
