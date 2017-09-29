@@ -1,7 +1,7 @@
 ---
 layout: training
 title:  "Content design recommended reading"
-category: Resource
+category: Resources
 length:
 disableCta: true #disabled the 'How to access this' call to action at the bottom of the page template
 ---

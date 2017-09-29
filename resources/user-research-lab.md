@@ -1,7 +1,7 @@
 ---
 layout: training
 title:  "User research lab"
-category: Resource
+category: Resources
 contact: Amy Everett
 ---
 
