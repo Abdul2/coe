@@ -7,4 +7,4 @@ length: 2 hours
 contact: Kate Tarling
 ---
 
-Before kicking off a new project, it helps to get to the very root of the problem you want you're trying to solve. This valuable session includes advice on how to best achieve the policy intent and desired outcomes.
+Before starting a new project, it helps to get to the root of the problem you’re trying to solve. This workshop includes advice on how best to achieve the policy intent and desired outcomes.
