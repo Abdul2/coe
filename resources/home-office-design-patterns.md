@@ -1,10 +1,12 @@
 ---
 layout: training
 title:  "Home Office design patterns"
-category: Resource
+category: Resources
 disableCta: true #disabled the 'How to access this' call to action at the bottom of the page template
 ---
 
-Designers across the Home Office have pulled together this handy online library of design patterns and components to help create better consistency between Home Office services and GDS designs. If you need help using them, or think there's something missing, get in touch.
+An online library of design patterns and components to help create consistency between Home Office services and GDS designs.
 
-[https://home-office-digital-patterns.herokuapp.com](https://home-office-digital-patterns.herokuapp.com)
+https://home-office-digital-patterns.herokuapp.com
+
+Email CentreOfExcellenceCentral@digital.homeoffice.gov.uk if you need help using them, or want to talk about adding a new pattern.

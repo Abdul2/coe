@@ -6,4 +6,6 @@ Format: Personal advice
 Contact: Rosanna Fairthorne
 ---
 
-Advice on when to speak to GDS about your service and what to show them. We can put you in touch with the right person and help you get any necessary approval - such as funding and spend control. We can also arrange advice around using Verify, Notify, GovPay or PaaS; and we can help you book your service in for its next assessment.
+Advice on when to speak to GDS about your service and what to show them. We can put you in touch with the right person and help you get necessary approval, for example funding and spend control.
+
+We can also arrange advice for using Verify, Notify, GovPay or Platform as a Service (PaaS). We can also help you book a service assessment.
