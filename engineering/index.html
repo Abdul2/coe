@@ -1,0 +1,19 @@
+---
+layout: page
+title: "Engineering"
+---
+
+<div class="grid-row">
+  <div class="column-two-thirds">
+    <ul class="list-reset">
+        {% for page in site.pages %}
+          {% if page.category contains 'Engineering' %}
+          <li class="content">
+            <h2 class="heading-medium"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+            <p>{{ page.content | markdownify | strip_html | truncatewords:25 }}</p>
+          </li>
+          {% endif %}
+        {% endfor %}
+    </ul>
+  </div>
+</div>
